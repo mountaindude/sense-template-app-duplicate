@@ -29,7 +29,7 @@
     "js-yaml": "^3.13.1",
     "jshint": "^2.11.0",
     "json-query": "^2.2.0",
-    "qrs-interact": "^4.0.0",
+    "qrs-interact": "^6.0.0",
     "request": "^2.88.2",
     "restify": "^8.5.1",
     "restify-cors-middleware": "^1.1.1",
